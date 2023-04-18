@@ -1,0 +1,30 @@
+{
+  "hero": {
+    "title": "Welcome to Jarvis, your personal AI assistant!",
+    "subtitle": "With Jarvis, you'll have a powerful virtual assistant at your fingertips, ready to help you with anything you need. Whether you need to schedule appointments, set reminders, find information, or just want to chat, Jarvis is here to help.",
+    "image": "/hero_image.png"
+  },
+  "perks": {
+    "title": "The Perks",
+    "subtitle": "With Jarvis, you'll have a powerful virtual assistant at your fingertips, ready to help you with anything you need. Whether you need to schedule appointments, set reminders, find information, or even just chat, Jarvis is here to make your life easier.",
+    "image": "/perks_image.png",
+    "perks": [
+      {
+        "title": "Conversation History",
+        "description": "With Jarvis, you can save your conversations and easily refer back to them later. Whether you need to remember an important detail or just want to revisit a fun chat, Jarvis has you covered."
+      },
+      {
+        "title": "Pinning Conversations",
+        "description": "Have an important conversation that you want to keep front and center? With Jarvis, you can pin your most important conversations so they're always at the top of your chat list."
+      },
+      {
+        "title": "Customizable Advice",
+        "description": "Whether you're looking for cooking tips, fitness advice, or anything in between, Jarvis has a wide range of customizable advice options to suit your needs. Simply choose the type of advice you want, and Jarvis will provide you with personalized recommendations and helpful tips to help you achieve your goals."
+      }
+    ]
+  },
+  "CTA": {
+    "text": "Ready to experience the power of AI assistance for yourself?",
+    "button": "Sign In"
+  }
+}
